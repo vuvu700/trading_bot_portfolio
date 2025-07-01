@@ -1,0 +1,6 @@
+git+https://github.com/vuvu700/holo@dev
+termcolor
+colorama
+websocket-client
+pandas
+tables

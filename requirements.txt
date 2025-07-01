@@ -1,0 +1,20 @@
+get+https://github.com/vuvu700/holo@dev
+keras
+tensorflow==2.10 # while still in python 3.7 (next move to pytorch)
+numba
+numpy
+IPython
+backtesting
+finplot
+matplotlib
+pandas
+scipy
+typing_extensions
+websockets
+yfinance
+pydot
+attrs
+termcolor
+colorama
+websocket-client
+tables
