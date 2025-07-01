@@ -1,15 +1,32 @@
 # trading_bot_portfolio
-this repo is a portfolio version of my current personal project that is private
-all the code in this project is only a selection of code that i can show without giving my work
-it isn't intended to run but to show the project as part of my profolio
-there is only 14'179 lines of code in the protfolio compared to the 29k of the full project
 
-## what did I removed ?
- - the core of the training of the models (since i never seen any paper doing the same)
- - the new architectures that i am using (kept the legacy architectures)
- - most of the features engenering that i have done (kept the most common)
- - core of the data scraping (kept the scraper tools)
+This repository is a **portfolio version** of my current private personal project.  
+It includes only selected parts of the original codebase, with sensitive or unpublished components intentionally removed.  
+The purpose of this repo is **not to run** the full trading bot, but rather to showcase key aspects of the project in a professional context.
 
-## notes: 
- - this repository will not be updated since it isn't a public version but only a portfolio
- - the senti3 AI foler is in early developement so it isn't complet
+The portfolio version includes **approximately 14,179 lines of code**, compared to over **29,000 lines** in the complete project.
+
+---
+
+## 🔒 What has been removed?
+
+To preserve the originality and confidentiality of my work, I excluded:
+
+- The **core training logic** for the models (as the training pipeline uses a custom approach I have not seen published elsewhere)
+- My **new architectures** (only legacy model versions are included)
+- Most of the **feature engineering pipeline** (only basic/common features are shown)
+- The **main data scraping engine** (only tooling and helper scripts are included)
+
+---
+
+## 📝 Notes
+
+- This repository will **not be maintained** or updated in the future, as it is not meant for public use or reproduction.
+- The `senti3_AI` folder is in **early-stage development** and is currently incomplete.
+
+---
+
+## 📌 Disclaimer
+
+This project is for **portfolio and demonstration purposes only**.
+
